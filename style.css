@@ -32,6 +32,11 @@ p {
 	font-weight: 300;
 	letter-spacing: .05rem;
 }
+
+a.ex5:visited, a.ex5:link {text-decoration: none;}
+a.ex5:hover, a.ex5:active {text-decoration: underline;}
+
+
 .section-title {
 	font-size: 4rem;
 	font-weight: 300;
